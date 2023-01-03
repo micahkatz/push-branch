@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+BRANCH=$(git branch --show-current)
+git push origin $BRANCH
