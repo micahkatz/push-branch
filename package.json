@@ -1,0 +1,26 @@
+{
+    "name": "push-branch",
+    "version": "1.0.1",
+    "description": "This will push your current github branch to origin",
+    "main": "push-branch",
+    "bin": "push-branch",
+    "scripts": {
+        "test": "push-branch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micahkatz/push-branch.git"
+    },
+    "keywords": [
+        "git",
+        "script",
+        "zsh",
+        "bash"
+    ],
+    "author": "Micah Katz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/micahkatz/push-branch/issues"
+    },
+    "homepage": "https://github.com/micahkatz/push-branch#readme"
+}
